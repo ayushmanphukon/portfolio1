@@ -3,16 +3,15 @@
 Welcome to my portfolio! This document showcases my projects, skills, and achievements.
 
 ## About Me
-A brief introduction about yourself goes here.
+Hi my name is Ayushman Phukon. Completed 12th then joined zoho schools for technology. Currently working as an intern in zoho sheets.
 
 ## Projects
-- **Project 1**: Description of the project.
-- **Project 2**: Description of the project.
+- **Project 1**: pet project social media app.
 
 ## Skills
-- Skill 1
-- Skill 2
-- Skill 3
+- java servlets
+- frontend basic javascript
+- mysql, duckdb
 
 ## Contact
-Feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+Feel free to reach out at [ayushmanphukon@gmail.com].
